@@ -7,7 +7,7 @@ public class TareaGrupal_prueba {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HOLA MUNDO :3");
-        System.out.println(" ");
+        System.out.println("");
     }
     
 }
