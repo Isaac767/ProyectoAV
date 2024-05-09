@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/User/OneDrive%20-%20Universidad%20Técnica%20Particular%20de%20Loja%20-%20UTPL/ciclo%204/p.av/ProyectoAV2/src/proyectoav2/ProyectoAV2.java</file>
-            <file>file:/C:/Users/User/OneDrive%20-%20Universidad%20Técnica%20Particular%20de%20Loja%20-%20UTPL/ciclo%204/p.av/ProyectoAV2/src/Clases/Persona.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Bodeguero.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Entrega.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Direccion.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/proyectoav2/ProyectoAV2.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Repartidor.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Persona.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Cliente.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Empleado.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Paquete.java</file>
+            <file>file:/C:/Users/User/ProyectoAV/ProyectoAV2/src/Clases/Estado.java</file>
         </group>
     </open-files>
 </project-private>
